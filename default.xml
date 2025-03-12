@@ -1,6 +1,6 @@
 <manifest>
   <remote name="origin" fetch="https://github.com" />
   <default remote="origin" revision="main" />
-  <project path="repo1" name="idxca/repo1" />
+  <project path="repo1" name="idxca/gitskills" />
   <project path="repo2" name="idxca/repo2" />
 </manifest>
